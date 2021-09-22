@@ -1,0 +1,9 @@
+POST  http://localhost:8000/api/posts
+Accept: application/json
+Content-Type: application/json
+
+{
+    "title": "t1",
+    "description": "d1",
+    "image": "i1"
+}
